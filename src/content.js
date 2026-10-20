@@ -154,7 +154,7 @@ export const CONTENT = {
     memories: [
       { src: 'photos/memory-moon.jpg', caption: 'Chị với tay là chạm tới cả mặt trăng 🌕' },
       { src: 'photos/meme-office.png', caption: 'Ai rồi cũng phải chạy deadline thôi 😵' },
-      { src: 'photos/memory-cat.jpg', caption: 'Đến mèo cũng phải nằm im cho chị cưng' },
+      { src: 'photos/memory-cat.jpg', caption: 'Thiếu ảnh nên lấy tạm ảnh con mèo :V' },
       { src: 'photos/memory-park.jpg', caption: 'Bảnh, nhưng là bảnh dịu dàng ✨' },
       { src: 'photos/face.png', caption: 'Tóc hồng đỏ huyền thoại 💖' },
       { src: 'photos/meme-face.jpg', caption: 'Biểu cảm khi nhận feedback của sếp' },
