@@ -1,0 +1,22 @@
+{
+  "name": "ngan-city",
+  "private": true,
+  "version": "1.0.0",
+  "description": "GTA: Ngân City — mini game chúc mừng 20/10",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@fontsource/anton": "5.3.0",
+    "@fontsource/bangers": "5.3.0",
+    "@fontsource/be-vietnam-pro": "5.3.0",
+    "@fontsource/dancing-script": "5.3.0",
+    "phaser": "3.90.0"
+  },
+  "devDependencies": {
+    "vite": "8.3.4"
+  }
+}

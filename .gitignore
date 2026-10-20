@@ -1,0 +1,13 @@
+node_modules
+dist
+.vercel
+
+# Personal photos and third-party media stay out of git (privacy / copyright).
+public/photos/*
+!public/photos/README.md
+public/media/*
+!public/media/README.md
+
+# Ảnh gốc bạn để ở thư mục gốc
+/face.png
+/photos-goc/
