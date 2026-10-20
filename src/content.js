@@ -125,12 +125,12 @@ export const CONTENT = {
     heading: 'Chúc mừng 20/10',
     sub: 'Gửi chị Ngân — người phụ nữ bảnh nhất Ngân City',
     letter: [
-      'Chị Ngân ơi,',
-      'Chúc mừng chị đã phá đảo Ngân City! Né deadline giỏi, múa quạt bảnh, lại còn được cả thành phố săn đón — đúng là không ai khác ngoài chị 😎',
-      'Ba năm quen chị, từ hồi còn chung công ty đến giờ, em vẫn luôn thấy: ở đâu có chị là ở đó vui hơn hẳn — và rực rỡ hơn hẳn, nhờ mái tóc hồng đỏ huyền thoại.',
+      'Gửi chị Ngân,',
+      'Chúc mừng chị đã phá đảo Ngân City! Né deadline giỏi, múa quạt bảnh, lại còn được cả thành phố săn đón — nói chung là đẳng cấp 😎',
+      'Ba năm quen chị, từ hồi còn chung công ty đến giờ, em vẫn luôn thấy: ở đâu có chị là ở đó vui hơn hẳn — chắc là nhờ mái tóc bảy màu biến hóa khôn lường + những câu chuyện vô tri mà chị hay kể :V.',
       '', // ← (tuỳ chọn) thêm một kỷ niệm thật của hai chị em ở đây, VD: 'Em vẫn nhớ hồi…'
-      'Cảm ơn chị vì đã luôn là một người chị, một người đồng nghiệp và một người bạn tuyệt vời như thế.',
-      'Nhân ngày 20/10, em chúc chị luôn khỏe, luôn xinh, luôn được yêu thương, làm gì cũng thuận — và mãi bảnh như chính chị.',
+      'Cảm ơn chị vì đã luôn là một người chị, một người đồng nghiệp và một đối tác xịn xò.',
+      'Nhân ngày 20/10, em chúc chị luôn khỏe, luôn xinh, luôn được yêu thương, làm gì cũng thuận, sống lâu trăm tuổi.',
     ],
     signOff: 'Em,',
     fromName: 'Khách hàng VIP', // ← tên ký cuối thư
@@ -157,7 +157,7 @@ export const CONTENT = {
       { src: 'photos/memory-cat.jpg', caption: 'Đến mèo cũng phải nằm im cho chị cưng' },
       { src: 'photos/memory-park.jpg', caption: 'Bảnh, nhưng là bảnh dịu dàng ✨' },
       { src: 'photos/face.png', caption: 'Tóc hồng đỏ huyền thoại 💖' },
-      { src: 'photos/meme-face.jpg', caption: 'Biểu cảm khi sếp nhắn lúc 11h đêm' },
+      { src: 'photos/meme-face.jpg', caption: 'Biểu cảm khi nhận feedback của sếp' },
       { src: 'photos/memory-mirror.jpg', caption: 'Phiên bản Noel vẫn bảnh như thường 🦌' },
     ],
   },
